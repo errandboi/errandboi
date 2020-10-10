@@ -1,4 +1,5 @@
-### Hi there 👋
+##  Hi there 👋! 🔭 I’m currently working on an open source progressive web application for services/job search. I am planning to open this for the people.
+### This is my entry for the hacktoberfest..
 
 <!--
 **errandboi/errandboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
